@@ -1,0 +1,16 @@
+{
+  "n_variables_candidatas": 1755,
+  "n_variables_seleccionadas": 22,
+  "candidatas_por_grupo": {
+    "Sentinel-2 / Landsat 8": 1472,
+    "Planet": 256,
+    "Clima (CHIRPS)": 25,
+    "Topograf\u00eda (INEGI)": 2
+  },
+  "lasso_alpha_seleccion": 0.01,
+  "svr_C": 10,
+  "svr_gamma": 0.01,
+  "svr_epsilon": 0.1,
+  "n_entrenamiento": 138,
+  "n_prediccion": 59
+}
